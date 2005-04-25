@@ -1,0 +1,6 @@
+TODO:
+* Only go Away when accounts are Available.
+* Track when we are away due to pimpresence and only go Available again when pimpresence made us away.
+* Implement Preferences class and make config ui functional
+* Use XMLGUI to add enable/disable action to the contact list window's Edit Menu.
+* Add configure check for kdepim

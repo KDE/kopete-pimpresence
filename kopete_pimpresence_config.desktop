@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+Icon=html
+ServiceTypes=KCModule
+
+X-KDE-ModuleType=Library
+X-KDE-Library=kopete_pimpresence
+X-KDE-FactoryName=PIMPresencePreferencesFactory
+X-KDE-ParentApp=kopete_pimpresence
+X-KDE-ParentComponents=kopete_pimpresence
+
+Comment=Set your status according to appointments in your calendar
+Name=PIM Presence
