@@ -11,4 +11,6 @@ X-KDE-ParentApp=kopete_pimpresence
 X-KDE-ParentComponents=kopete_pimpresence
 
 Comment=Set your status according to appointments in your calendar
+Comment[sv]=Ställ in din status enligt möten i din kalender
 Name=PIM Presence
+Name[sv]=PIM-närvaro

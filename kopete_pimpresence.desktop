@@ -14,4 +14,6 @@ X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=false
 Comment=Set your status according to appointments in your calendar
+Comment[sv]=Ställ in din status enligt möten i din kalender
 Name=PIM Presence
+Name[sv]=PIM-närvaro
