@@ -11,6 +11,7 @@ X-KDE-ParentApp=kopete_pimpresence
 X-KDE-ParentComponents=kopete_pimpresence
 
 Comment=Set your status according to appointments in your calendar
+Comment[el]=Καθορισμός της κατάστασής σας ανάλογα με τα ραντεβού στο ημερολόγιό σας
 Comment[et]=Oma oleku määramine vastavalt kohtumistele kalendris
 Comment[fr]=Définir votre état en fonction des rendez-vous de votre agenda
 Comment[it]=Imposta il tuo stato secondo gli appuntamenti del calendario
