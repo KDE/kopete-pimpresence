@@ -12,6 +12,7 @@ X-KDE-ParentComponents=kopete_pimpresence
 
 Comment=Set your status according to appointments in your calendar
 Comment[el]=Καθορισμός της κατάστασής σας ανάλογα με τα ραντεβού στο ημερολόγιό σας
+Comment[es]=Establecer su estado conforme a las citas de su calendario
 Comment[et]=Oma oleku määramine vastavalt kohtumistele kalendris
 Comment[fr]=Définir votre état en fonction des rendez-vous de votre agenda
 Comment[it]=Imposta il tuo stato secondo gli appuntamenti del calendario
@@ -24,6 +25,7 @@ Comment[xx]=xxSet your status according to appointments in your calendarxx
 Name=PIM Presence
 Name[da]=PIM-tilstedeværelse
 Name[el]=Παρουσία PIM
+Name[es]=Presencia PIM
 Name[et]=PIM kohalolek
 Name[fr]=Présence PIM
 Name[it]=Presenza PIM
