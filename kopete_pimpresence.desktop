@@ -14,6 +14,7 @@ X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=false
 Comment=Set your status according to appointments in your calendar
+Comment[ar]=عيين الحالة حسب مواعيدي في المذكرة الشخصية
 Comment[bg]=Задайте вашето състояние според записаните срещи в календара
 Comment[cs]=Nastavuje vás stav podle schůzek ve vašem kalendáři
 Comment[da]=Indstil din status ifølge møder i din kalender
