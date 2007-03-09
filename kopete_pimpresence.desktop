@@ -14,4 +14,6 @@ X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=false
 Comment=Set your status according to appointments in your calendar
+Comment[el]=Καθορισμός της κατάστασής σας ανάλογα με τα ραντεβού στο ημερολόγιό σας
 Name=PIM Presence
+Name[el]=Παρουσία PIM
